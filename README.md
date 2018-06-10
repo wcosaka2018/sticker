@@ -9,3 +9,6 @@ WordCamp Osaka 2018 の公式わぷーのシールデータ
 
 Wapuu is licensed under GNU General Public License v2 or later. It's same as WordPress software. You can use in a plugin or theme.
 Wapuu's copyright is reserved by Kazuko Kaneuchi.
+
+
+[Twitter](https://twitter.com/466548)  
